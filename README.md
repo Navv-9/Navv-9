@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌱 I’m currently learning Django
-- 📫 How to reach me: [navya.sharmaa16@gmail.com](navya.sharmaa16@gmail.com)
+- 📫 How to reach me: [navya.sharmaa16@gmail.com](mailto:navya.sharmaa16@gmail.com)
 
 ## Tech Stack
 - Python | C/C++ | HTML/CSS
@@ -24,4 +24,3 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 </details>
-**Navv-9/Navv-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
